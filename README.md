@@ -1,6 +1,7 @@
 # multimodal_sarcasm_classification
 
- 
+Detect sarcasm in American sitcoms using multiple modalities - Audio, Visual and Lexical
+
 
 References:
 
